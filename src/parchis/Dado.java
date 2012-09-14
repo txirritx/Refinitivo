@@ -3,6 +3,7 @@ package parchis;
 public class Dado {
 	/**
 	 * Y esta actualización sólo es para la rama.. NuevaRama
+	 * Y esta otra también
 	 */
 	private static Dado miDado = new Dado();
 	
