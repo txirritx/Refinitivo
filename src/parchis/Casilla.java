@@ -3,6 +3,11 @@ package parchis;
 import java.util.LinkedList;
 import java.util.Observable;
 
+/**
+ * Es mi casilla y no la tuya
+ * @author Maite
+ *
+ */
 public class Casilla extends Observable{
 	
 	protected LinkedList<Ficha> fichas;
