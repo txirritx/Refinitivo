@@ -22,5 +22,11 @@ public class Dado {
 	}
 
 	
+public int Probaaaaaaaaaaaa(){
+		
+		return (int) Math.ceil(Math.random()*6);
+	}
+
+	
 
 }
