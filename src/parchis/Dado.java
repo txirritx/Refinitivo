@@ -1,5 +1,9 @@
 package parchis;
-
+/**
+ * 
+ * @author Mikel
+ *
+ */
 public class Dado {
 	
 	private static Dado miDado = new Dado();
