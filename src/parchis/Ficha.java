@@ -2,7 +2,9 @@ package parchis;
 
 public class Ficha {
 	
-	
+	/**blablablaba
+	 * 
+	 */
 	//atributos
 	private ColorP color;
 	private int posicion;
