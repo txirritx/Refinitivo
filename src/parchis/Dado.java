@@ -1,6 +1,6 @@
 package parchis;
 /**
- * 
+ * Esta es otra clase modificada en github, y esta voy a querer actualizar en el repositorio local
  * @author Mikel
  *
  */
