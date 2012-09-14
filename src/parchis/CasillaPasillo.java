@@ -1,8 +1,7 @@
 package parchis;
 
 /**
- * Y esta tampoco
- * @author Maite
+ * ESTA ES LA MODIFICACIONEEEEEEEEEEE
  *
  */
 public class CasillaPasillo extends Casilla {
