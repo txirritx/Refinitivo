@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Observable;
 
 /**
- * Es mi casilla y no la tuya
+ * AAAAAAAAAAAAA
  * @author Maite
  *
  */
