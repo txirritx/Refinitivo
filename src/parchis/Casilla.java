@@ -4,7 +4,8 @@ import java.util.LinkedList;
 import java.util.Observable;
 
 /**
- * Es mi casilla y no la tuya
+ *Esta es la versión local que quiero que vaya
+ *a online
  * @author Maite
  *
  */
