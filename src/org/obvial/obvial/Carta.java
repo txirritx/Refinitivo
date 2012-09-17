@@ -1,7 +1,7 @@
 package org.obvial.obvial;
 
 public class Carta {
-
+ 
 	private int num;
 	private String pregunta;
 	private String respCorrecta;
